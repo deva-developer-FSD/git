@@ -1,0 +1,9 @@
+/////19/09/2023-----practice
+var brute="avengers";
+console.log(brute.length);
+
+ var thor="VILLAIN";
+console.log(thor.toLowerCase());
+
+var thor="villain";
+console.log(thor.toUpperCase());
